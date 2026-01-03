@@ -1,7 +1,7 @@
 // Typewriter Effect for Header Title and Description
 const typewriterElement = document.getElementById('typewriter');
 const descElement = document.getElementById('typewriter-desc');
-const titleText = "Omolayo Ayobami Victory"; // Replace with your actual name
+const titleText = "Omolayo Ayobami Victor"; // Replace with your actual name
 const descText = "Computer Science Student, Web Developer in Training - CSC/2023/81129"; // Replace with your actual description
 
 let titleIndex = 0;
